@@ -1,0 +1,12 @@
+name: networq:skype
+description: Skypes types
+license: MIT
+
+dependencies:
+  networq:core: latest
+
+widgets:
+  linkedinProfileProperties:
+    type: networq:skype:user
+    hook: properties
+    label: Skype properties

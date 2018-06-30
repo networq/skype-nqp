@@ -1,0 +1,7 @@
+name: user
+labelPlural: Users
+labelSingular: Users
+
+fields:
+  name:
+    type: string
