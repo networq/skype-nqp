@@ -6,7 +6,7 @@ dependencies:
   networq:core: latest
 
 widgets:
-  linkedinProfileProperties:
+  skypeUserProperties:
     type: networq:skype:user
     hook: properties
     label: Skype properties
